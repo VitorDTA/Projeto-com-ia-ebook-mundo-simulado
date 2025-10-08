@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [AiStudio](https://aistudio.google.com/u/0/gen-media)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,29 +40,56 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de ebook sobre o tema de Simulação, o ebook é do nicho de simulação estatística com o ARENA, programa da PARAGON. o título deve ser épico e curto, e tenha uma temática voltada para análise e estatística, me liste 5 variações de título   |
+| conteúdo | faça um texto para ebook, com foco em simulação e analise de dados com o software ARENA, da PARAGON, listando principais módulos (process, create, decide, todos os principais) usados na modelagem de sistemas 
+{REGRAS} 
+Explique sempre de uma maneira simples 
+Deixe o texto enxuto 
+Cite todos os principais, não somente os que dei de exemplo 
+sempre deixe um título sugestivo por tópico 
+ |
 
 
-Midjourney：
+Ai Studio：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | futuristic smart city viewed from above, showing traffic, pedestrians, factories, and logistics systems, overlay of glowing lines and icons representing data flow and simulation events, holographic interface elements, neon accents, cyberpunk style, high-tech atmosphere, cinematic lighting, ultra-detailed, 4K --v 5 --ar 16:9 --q 2 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Ai Studio
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
+## 👨‍🎓 Aluno
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/232955836?s=400&u=9f4160c5d078026fe5d58fcf56738f22d5ceac49&v=4"
+    />
+    <p>&nbsp&nbsp&nbspVitor Correia<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/VitorDTA">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/vitor-correia-aa78621b3/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
 ## 👨‍💻 Expert
 
@@ -89,4 +116,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Criado por Vitor, ensinado com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
