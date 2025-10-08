@@ -42,10 +42,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de ebook sobre o tema de Simulação, o ebook é do nicho de simulação estatística com o ARENA, programa da PARAGON. o título deve ser épico e curto, e tenha uma temática voltada para análise e estatística, me liste 5 variações de título   |
 | conteúdo | faça um texto para ebook, com foco em simulação e analise de dados com o software ARENA, da PARAGON, listando principais módulos (process, create, decide, todos os principais) usados na modelagem de sistemas 
-{REGRAS} 
-Explique sempre de uma maneira simples 
-Deixe o texto enxuto 
-Cite todos os principais, não somente os que dei de exemplo 
+{REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto Cite todos os principais, não somente os que dei de exemplo 
 sempre deixe um título sugestivo por tópico 
  |
 
